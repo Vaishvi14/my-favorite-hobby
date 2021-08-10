@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: #d87cf7;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+   float: left;
+   padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+#one{
+    font-family: Fuggles;
+    font-size: 25px;
+    font-weight: bold;
+}
+img:hover{
+    transform: scale(1.1);
+}
